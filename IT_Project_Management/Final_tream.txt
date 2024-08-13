@@ -1,0 +1,118 @@
+1.Project management constraints:
+we have 3 Time, cost, scope
+. Time: Time constraint refers to the project's schedule and the deadline for its completion. 
+. Cost: Cost: Cost constraint refers to the project's budget or the financial resources allocated to complete the project.
+. Scope:Scope: Scope constraint refers to the work that needs to be accomplished to deliver the project's objectives and meet the stakeholders' requirements
+
+2. Project management skills
+. Program area knowledge, standards, and
+regulations
+. Understand the project environment
+. General management skills (budgeting, scheduling)
+. Communication skills
+. Interpersonal skills
+3. exercise 
+If Mr. A performs a software programming task alone, it
+takes 12 days, and if Mr. B does it alone, it takes six (6)
+days. When the two perform the task together, 10% of
+everyday’s total work hours is necessary for discussion.
+When they perform the task together, how many days are
+necessary at least to complete the programming task?
+=><<answer>>
++Calculate the work rate of Mr. A:
+If Mr. A completes the task alone in 12 days, his work rate would be 1/12 of the task per day.
+
++Calculate the work rate of Mr. B:
+If Mr. B completes the task alone in 6 days, his work rate would be 1/6 of the task per day.
+
++Determine the combined work rate when they work together:
+When working together, we need to consider that 10% of the total work hours are spent on discussion each day. This means 90% of the time is spent on actual work.
+The combined work rate when they work together is calculated as follows:
+Combined work rate = (Work rate of A + Work rate of B) * 0.9
+
++Calculate the total work hours required to complete the task when they work together:
+Total work hours required = 1 / Combined work rate
+
+Now, let's perform the calculations:
+
+Work rate of Mr. A = 1/12 task per day
+Work rate of Mr. B = 1/6 task per day
+
+Combined work rate = (1/12 + 1/6) * 0.9 = (1/12 + 2/12) * 0.9 = (3/12) * 0.9 = 3/40 task per day
+
+Total work hours required = 1 / Combined work rate = 40 / 3 hours
+
+Since there are 8 hours in a workday, the number of days required to complete the task is:
+40 / 3 hours ÷ 8 hours per day = 5 days
+
+4.Risk management: IT projects often involve risks related to technology, cybersecurity, compliance, and more. Project management includes identifying, assessing, and managing these risks to minimize their impact on project success.
+
+Q2: IT T Project management is needed because:
+IT projects are mostly have time and cost constraints
+
+Q3:They said “The product is intangible”
+because:
+Software is not touchable
+
+Q4: said
+“Manage these or they will manage you!” means:
+Be proactive so that we will be on schedule
+
+5. Schedule
+The schedule is shared among project members;
+• What work (activity/task) needs to be performed,
+• Which human resources will perform the work and
+• The timeframes in which that work needs to be
+performed.
+
+Q1: Which of the following is an appropriate milestone
+in a system development project?
+=>System acceptance
+Q2: The table is a plan at the starting point when a group with six (6)
+members develops a system. On the 19th day from the start, 50% of
+coding task is completed. Approximately what % of the whole project does the remaining task constitute at the end of the 19th day?
+=?57%
+
+Q3: Which of the following is not an appropriate
+milestone in a system development project?
+=>system error
+
+Q4: Which of the following is inappropriate for
+describing a project charter?
+=> Project Requirement analysis
+
+Q5: “Project Manager reports the project progress to
+customer”, which phase does this activity is in?
+=> Design/Development
+
+Q6: In Hierarchical Organization, Human resources is under:
+=> Human resources department
+
+Q7: n Functional Organization, Line department includes Sales
+department and:
+=> Accounting department
+
+Q8:Which organization structure that support multiple
+production departments?
+=> Divisional system organization
+
+Q9:  Which role is not appropriate for Project Organization?
+=> Sales
+
+Q9: Software development life cycle:A framework that describes the activities
+performed at each stage of a software
+development project.
+=> Planning: In this phase, project goals, scope, budget, and timelines are defined. 
+=> Requirements Gathering and Analysis: The requirements for the software are collected from stakeholders, and a detailed analysis is performed to understand the needs of the users and the system.
+=>Design: The system architecture and design specifications are developed in this phase.
+=> Implementation (Coding): The actual coding or programming of the software is done in this phase. Developers write code based on the design specifications.
+=> Testing: The software undergoes various levels of testing to ensure that it meets the specified requirements. 
+=> Deployment: The software is released and deployed in the production environment after successful testing.
+
+5. My project we ued
+technilogy: Nest js, Mongo DB, graphql, SvelteJs, Tailwincss
+Feature Dashboard, form setting
+Dashboard: view upcomming appointment, history and callender
+form: form description, Question, Add question, field form, 
+Setting: cretae time slot, available on the schedule, delete time slot, add new slot time
+
